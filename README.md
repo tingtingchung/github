@@ -1,5 +1,5 @@
 # github
-Collection of github resources  
+Collection of github resources from github workshop at 2025 SIGCSE  
 [Create a profile](https://gh.io/profile)  
 [Create a repo](https://gh.io/first-repo)  
 [Create a collaborative repo](https://gh.io/collab-repo)  
