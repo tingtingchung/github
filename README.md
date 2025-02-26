@@ -7,6 +7,7 @@ Collection of github resources from github workshop at 2025 SIGCSE
 [Teacher Toolbox](https://gh.io/toolbox-sigcse)  
 [Student Developer Pack](https://education.github.com/pack)  
 [GitHub Education Resource Hub](https://github.com/github-education-resources/edu-resource-guide)  
+[Github Education Youtube channel](https://www.youtube.com/@githubeducation4427/playlists)  
 
 **issues**  
 We can create issues, which are attached to a specific repo.  
