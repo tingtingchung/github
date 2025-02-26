@@ -6,6 +6,7 @@ Collection of github resources from github workshop at 2025 SIGCSE
 [Markup Code](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 [Teacher Toolbox](https://gh.io/toolbox-sigcse)  
 [Student Developer Pack](https://education.github.com/pack)  
+[GitHub Education Resource Hub](https://github.com/github-education-resources/edu-resource-guide)  
 
 **issues**  
 We can create issues, which are attached to a specific repo.  
